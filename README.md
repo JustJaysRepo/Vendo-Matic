@@ -1,10 +1,10 @@
 ## Module 1 Capstone - Vending Machine Software
 
-You're developing an application for the newest vending machine distributor,
-Umbrella Corp. They've released a new vending machine, Vendo-Matic 800, that's integrated
+ vending machine distributor,
+ a new vending machine, Vendo-Matic 800, that's integrated
 with everyone's bank accounts, allowing customers to purchase products from their computers for their convenience.
 
-### Application requirements
+
 
 1. The vending machine dispenses beverages, candy, chips, and gum.
    - Each vending machine item has a Name and a Price.
@@ -74,9 +74,7 @@ process menu:
         01/01/2019 12:01:25 PM Cowtales B2 $1.50 $6.75 
         01/01/2019 12:01:35 PM GIVE CHANGE: $6.75 $0.00
         ```
-9. Create as many of your classes as possible to be "testable" classes. Limit console
-input and output to as few classes as possible.
-10. Optional - Sales Report
+ - Sales Report
     - Provide a "Hidden" menu option on the main menu ("4") that writes to a sales
     report that shows the total sales since the machine started. The name of the
     file must include the date and time so each sales report is uniquely named.
@@ -102,7 +100,7 @@ B2|Cowtales|1.50|Candy
 C1|Cola|1.25|Drink
 ```
 
-**An input file is in your repository: `vendingmachine.csv`.**
+
 
  ---
 ### Sales report
